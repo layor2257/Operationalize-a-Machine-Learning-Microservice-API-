@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/layor2257/Operationalize-a-Machine-Learning-Microservice-API-/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/layor2257/Operationalize-a-Machine-Learning-Microservice-API-/tree/main)
+
 # Operationalize-a-Machine-Learning-Microservice-API-
 
 
