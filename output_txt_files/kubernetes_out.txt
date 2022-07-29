@@ -1,0 +1,8 @@
+(.devops) ec2-user:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "housepredict" already exists
+NAME           READY   STATUS    RESTARTS   AGE
+housepredict   1/1     Running   0          35s
+microproject   1/1     Running   0          21m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
